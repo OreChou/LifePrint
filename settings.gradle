@@ -1,0 +1,3 @@
+include ':library-base'
+include ':app'
+rootProject.name = "LifePrint"
